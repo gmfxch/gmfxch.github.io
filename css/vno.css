@@ -6187,9 +6187,6 @@ hr {
 .hidden {
   display: none !important;
 }
-section.post {
-  text-indent: 2em;
-}
 .post-comments {
   border-top: 1px solid #ddd;
   padding: 60px 0;
